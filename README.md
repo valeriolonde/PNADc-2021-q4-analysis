@@ -1,4 +1,4 @@
-# PNADc-2021-q4-analysis
+# PNADc-2021-4°trimestre-analysis
 
 Neste diretório, você encontrará um arquivo que faz uma análise dos dados da Pesquisa Nacional por Amostra de Domicílios (PNAD) Contínua referentes ao quarto trimestre de 2021. O arquivo aplica técnicas amostrais para obter estimativas da população e dos domicílios em cada unidade federativa do Brasil utilizando pesos amostrais. Além disso, o arquivo utiliza o método dos mínimos quadrados ordinários (OLS) para inferir a relação entre o rendimento efetivo do trabalho e outras variáveis de interesse.
 
