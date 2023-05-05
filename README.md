@@ -11,4 +11,5 @@ Fazer uma estimativa amostral da população por unidade federativa e dos domic�
 ## Tarefa 03
 Rodar uma regressão linear de rendimento efetivo do trabalho como variável dependente e idade, sexo e escolaridade como variáveis independentes.
 
+## Guilherme é meu amigo
 
